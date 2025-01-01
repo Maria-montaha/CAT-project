@@ -32,6 +32,13 @@
 /* top-menu_section end */
 
 /* bannar_section  start */
+/* @media screen and (max-width:575px){
+  .bannar_section h1 {
+  font-size: 50px;
+  font-weight: 600;
+}
+}     jodi screen theke likha / content ber hoye jay ter  jonno media query likhte hoy*/ 
+
 .bannar_section {
     background-color: #fcc302;
 }
